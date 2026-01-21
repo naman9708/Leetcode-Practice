@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0216-combination-sum-iii](https://github.com/naman9708/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/naman9708/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/naman9708/Leetcode-Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Backtracking
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/naman9708/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/naman9708/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/naman9708/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -77,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/naman9708/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
