@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/naman9708/Leetcode-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/naman9708/Leetcode-Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/naman9708/Leetcode-Practice/tree/master/3379-transformed-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/naman9708/Leetcode-Practice/tree/master/0735-asteroid-collision) |
+| [3379-transformed-array](https://github.com/naman9708/Leetcode-Practice/tree/master/3379-transformed-array) |
 ## Greedy
 |  |
 | ------- |
