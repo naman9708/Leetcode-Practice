@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/naman9708/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/naman9708/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/naman9708/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/naman9708/Leetcode-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/naman9708/Leetcode-Practice/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/naman9708/Leetcode-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/naman9708/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/naman9708/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/naman9708/Leetcode-Practice/tree/master/0402-remove-k-digits) |
 ## Bit Manipulation
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naman9708/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/naman9708/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naman9708/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/naman9708/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
