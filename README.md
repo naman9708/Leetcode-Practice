@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/naman9708/Leetcode-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Doubly-Linked List
 |  |
@@ -205,11 +206,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/naman9708/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0100-same-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/naman9708/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
