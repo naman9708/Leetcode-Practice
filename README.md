@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/naman9708/Leetcode-Practice/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/naman9708/Leetcode-Practice/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/naman9708/Leetcode-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/naman9708/Leetcode-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/naman9708/Leetcode-Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/naman9708/Leetcode-Practice/tree/master/3379-transformed-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naman9708/Leetcode-Practice/tree/master/0002-add-two-numbers) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/naman9708/Leetcode-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
 | ------- |
