@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/naman9708/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/naman9708/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/naman9708/Leetcode-Practice/tree/master/0402-remove-k-digits) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/naman9708/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2784-check-if-array-is-good](https://github.com/naman9708/Leetcode-Practice/tree/master/2784-check-if-array-is-good) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
