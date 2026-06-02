@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/naman9708/Leetcode-Practice/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/naman9708/Leetcode-Practice/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/naman9708/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/naman9708/Leetcode-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/naman9708/Leetcode-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/naman9708/Leetcode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/naman9708/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/naman9708/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 ## Data Stream
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/naman9708/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
