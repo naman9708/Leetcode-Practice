@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/naman9708/Leetcode-Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/naman9708/Leetcode-Practice/tree/master/3379-transformed-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/naman9708/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/naman9708/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/naman9708/Leetcode-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/naman9708/Leetcode-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/naman9708/Leetcode-Practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/naman9708/Leetcode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/naman9708/Leetcode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/naman9708/Leetcode-Practice/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/naman9708/Leetcode-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naman9708/Leetcode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Tree
 |  |
 | ------- |
