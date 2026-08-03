@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/naman9708/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/naman9708/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/naman9708/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/naman9708/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/naman9708/Leetcode-Practice/tree/master/0735-asteroid-collision) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naman9708/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/naman9708/Leetcode-Practice/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/naman9708/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/naman9708/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2784-check-if-array-is-good](https://github.com/naman9708/Leetcode-Practice/tree/master/2784-check-if-array-is-good) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/naman9708/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/naman9708/Leetcode-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/naman9708/Leetcode-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/naman9708/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/naman9708/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naman9708/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/naman9708/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
 |  |
 | ------- |
@@ -299,4 +304,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/naman9708/Leetcode-Practice/tree/master/0207-course-schedule) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/naman9708/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/naman9708/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/naman9708/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
