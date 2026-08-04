@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naman9708/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/naman9708/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/naman9708/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/naman9708/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/naman9708/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/naman9708/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/naman9708/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [2574-left-and-right-sum-differences](https://github.com/naman9708/Leetcode-Practice/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search Tree
 |  |
