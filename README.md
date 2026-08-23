@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/naman9708/Leetcode-Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/naman9708/Leetcode-Practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/naman9708/Leetcode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/naman9708/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/naman9708/Leetcode-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/naman9708/Leetcode-Practice/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/naman9708/Leetcode-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/naman9708/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/naman9708/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/naman9708/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2784-check-if-array-is-good](https://github.com/naman9708/Leetcode-Practice/tree/master/2784-check-if-array-is-good) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Monotonic Stack
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/naman9708/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/naman9708/Leetcode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/naman9708/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Matrix
 |  |
 | ------- |
