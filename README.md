@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/naman9708/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/naman9708/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naman9708/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0130-surrounded-regions](https://github.com/naman9708/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/naman9708/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/naman9708/Leetcode-Practice/tree/master/0217-contains-duplicate) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/naman9708/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0130-surrounded-regions](https://github.com/naman9708/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naman9708/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/naman9708/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/0200-number-of-islands) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/naman9708/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/naman9708/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/naman9708/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/naman9708/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/naman9708/Leetcode-Practice/tree/master/0695-max-area-of-island) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/naman9708/Leetcode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0130-surrounded-regions](https://github.com/naman9708/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/naman9708/Leetcode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/naman9708/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/naman9708/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/naman9708/Leetcode-Practice/tree/master/0695-max-area-of-island) |
