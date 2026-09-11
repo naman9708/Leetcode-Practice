@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/naman9708/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naman9708/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/naman9708/Leetcode-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/naman9708/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [2574-left-and-right-sum-differences](https://github.com/naman9708/Leetcode-Practice/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/naman9708/Leetcode-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search Tree
 |  |
 | ------- |
