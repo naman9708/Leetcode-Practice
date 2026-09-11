@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/naman9708/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/naman9708/Leetcode-Practice/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/naman9708/Leetcode-Practice/tree/master/0907-sum-of-subarray-minimums) |
+| [0948-bag-of-tokens](https://github.com/naman9708/Leetcode-Practice/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/naman9708/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/naman9708/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/naman9708/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/naman9708/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/naman9708/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/naman9708/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0948-bag-of-tokens](https://github.com/naman9708/Leetcode-Practice/tree/master/0948-bag-of-tokens) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/naman9708/Leetcode-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/naman9708/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/naman9708/Leetcode-Practice/tree/master/0402-remove-k-digits) |
+| [0948-bag-of-tokens](https://github.com/naman9708/Leetcode-Practice/tree/master/0948-bag-of-tokens) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/naman9708/Leetcode-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naman9708/Leetcode-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/naman9708/Leetcode-Practice/tree/master/2126-destroying-asteroids) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/naman9708/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/naman9708/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0948-bag-of-tokens](https://github.com/naman9708/Leetcode-Practice/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/naman9708/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/naman9708/Leetcode-Practice/tree/master/1200-minimum-absolute-difference) |
