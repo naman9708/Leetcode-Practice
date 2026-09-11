@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/naman9708/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1200-minimum-absolute-difference](https://github.com/naman9708/Leetcode-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/naman9708/Leetcode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/naman9708/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/naman9708/Leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/naman9708/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
