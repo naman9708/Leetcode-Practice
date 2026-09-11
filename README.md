@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/naman9708/Leetcode-Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/naman9708/Leetcode-Practice/tree/master/3379-transformed-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/naman9708/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naman9708/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Backtracking
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/naman9708/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/naman9708/Leetcode-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/naman9708/Leetcode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [3483-unique-3-digit-even-numbers](https://github.com/naman9708/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/naman9708/Leetcode-Practice/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/naman9708/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/naman9708/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naman9708/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Monotonic Stack
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/naman9708/Leetcode-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/naman9708/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/naman9708/Leetcode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
 |  |
