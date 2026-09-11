@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/naman9708/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/naman9708/Leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/naman9708/Leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/naman9708/Leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/naman9708/Leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String Matching
 |  |
 | ------- |
