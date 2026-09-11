@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/naman9708/Leetcode-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0973-k-closest-points-to-origin](https://github.com/naman9708/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/naman9708/Leetcode-Practice/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/naman9708/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1200-minimum-absolute-difference](https://github.com/naman9708/Leetcode-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1584-min-cost-to-connect-all-points](https://github.com/naman9708/Leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/naman9708/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/naman9708/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/naman9708/Leetcode-Practice/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/naman9708/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/naman9708/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/naman9708/Leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Doubly-Linked List
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/naman9708/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/naman9708/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/naman9708/Leetcode-Practice/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/naman9708/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/naman9708/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Data Stream
 |  |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/naman9708/Leetcode-Practice/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/naman9708/Leetcode-Practice/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/naman9708/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/naman9708/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/naman9708/Leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/naman9708/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/naman9708/Leetcode-Practice/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/naman9708/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1584-min-cost-to-connect-all-points](https://github.com/naman9708/Leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/naman9708/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/naman9708/Leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
