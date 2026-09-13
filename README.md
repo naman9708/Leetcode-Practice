@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/naman9708/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/naman9708/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/naman9708/Leetcode-Practice/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/naman9708/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [0907-sum-of-subarray-minimums](https://github.com/naman9708/Leetcode-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0948-bag-of-tokens](https://github.com/naman9708/Leetcode-Practice/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/naman9708/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/naman9708/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/naman9708/Leetcode-Practice/tree/master/0695-max-area-of-island) |
+| [0835-image-overlap](https://github.com/naman9708/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/naman9708/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/naman9708/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
