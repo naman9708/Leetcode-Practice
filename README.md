@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naman9708/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/naman9708/Leetcode-Practice/tree/master/3903-smallest-stable-index-i) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/naman9708/Leetcode-Practice/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Backtracking
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/naman9708/Leetcode-Practice/tree/master/0402-remove-k-digits) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/naman9708/Leetcode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/naman9708/Leetcode-Practice/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/naman9708/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/naman9708/Leetcode-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/naman9708/Leetcode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/naman9708/Leetcode-Practice/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Simulation
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/naman9708/Leetcode-Practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/naman9708/Leetcode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/naman9708/Leetcode-Practice/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Sorting
 |  |
 | ------- |
