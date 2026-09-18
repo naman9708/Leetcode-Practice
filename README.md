@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/naman9708/Leetcode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/naman9708/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/naman9708/Leetcode-Practice/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/naman9708/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/naman9708/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/naman9708/Leetcode-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/naman9708/Leetcode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/naman9708/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/naman9708/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0148-sort-list](https://github.com/naman9708/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/naman9708/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/naman9708/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0948-bag-of-tokens](https://github.com/naman9708/Leetcode-Practice/tree/master/0948-bag-of-tokens) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/naman9708/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/naman9708/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/naman9708/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0948-bag-of-tokens](https://github.com/naman9708/Leetcode-Practice/tree/master/0948-bag-of-tokens) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naman9708/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/naman9708/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/naman9708/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/naman9708/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Union-Find
@@ -476,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/naman9708/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/naman9708/Leetcode-Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
