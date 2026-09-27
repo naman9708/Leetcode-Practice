@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naman9708/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/naman9708/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naman9708/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/naman9708/Leetcode-Practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/naman9708/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/naman9708/Leetcode-Practice/tree/master/0217-contains-duplicate) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naman9708/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/naman9708/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
+| [0198-house-robber](https://github.com/naman9708/Leetcode-Practice/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/naman9708/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/naman9708/Leetcode-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/naman9708/Leetcode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
