@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/naman9708/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/naman9708/Leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/naman9708/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/naman9708/Leetcode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/naman9708/Leetcode-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1905-count-sub-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/1905-count-sub-islands) |
 | [1920-build-array-from-permutation](https://github.com/naman9708/Leetcode-Practice/tree/master/1920-build-array-from-permutation) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/naman9708/Leetcode-Practice/tree/master/0402-remove-k-digits) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/naman9708/Leetcode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naman9708/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/naman9708/Leetcode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/naman9708/Leetcode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/naman9708/Leetcode-Practice/tree/master/3952-maximum-total-value-of-covered-indices) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naman9708/Leetcode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/naman9708/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/naman9708/Leetcode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/naman9708/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2784-check-if-array-is-good](https://github.com/naman9708/Leetcode-Practice/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/naman9708/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
