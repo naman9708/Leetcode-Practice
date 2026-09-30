@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/naman9708/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/naman9708/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/naman9708/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/naman9708/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/naman9708/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/naman9708/Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/naman9708/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/naman9708/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/naman9708/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naman9708/Leetcode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/naman9708/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/naman9708/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/naman9708/Leetcode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/naman9708/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
