@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naman9708/Leetcode-Practice/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/naman9708/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naman9708/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/naman9708/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/naman9708/Leetcode-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/naman9708/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naman9708/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/naman9708/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/naman9708/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/naman9708/Leetcode-Practice/tree/master/0198-house-robber) |
@@ -560,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naman9708/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/naman9708/Leetcode-Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
