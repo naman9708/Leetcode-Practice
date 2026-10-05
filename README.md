@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/naman9708/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/naman9708/Leetcode-Practice/tree/master/0695-max-area-of-island) |
+| [0705-design-hashset](https://github.com/naman9708/Leetcode-Practice/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/naman9708/Leetcode-Practice/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/naman9708/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [0907-sum-of-subarray-minimums](https://github.com/naman9708/Leetcode-Practice/tree/master/0907-sum-of-subarray-minimums) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/naman9708/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/naman9708/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/naman9708/Leetcode-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0705-design-hashset](https://github.com/naman9708/Leetcode-Practice/tree/master/0705-design-hashset) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/naman9708/Leetcode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Depth-First Search
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/naman9708/Leetcode-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/naman9708/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/naman9708/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/naman9708/Leetcode-Practice/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/naman9708/Leetcode-Practice/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/naman9708/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naman9708/Leetcode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/naman9708/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
+| [0705-design-hashset](https://github.com/naman9708/Leetcode-Practice/tree/master/0705-design-hashset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/naman9708/Leetcode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/naman9708/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/naman9708/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/naman9708/Leetcode-Practice/tree/master/0705-design-hashset) |
 ## Divide and Conquer
 |  |
 | ------- |
