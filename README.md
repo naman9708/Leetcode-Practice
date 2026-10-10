@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/naman9708/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/naman9708/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/naman9708/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/naman9708/Leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/naman9708/Leetcode-Practice/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/naman9708/Leetcode-Practice/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/naman9708/Leetcode-Practice/tree/master/0443-string-compression) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naman9708/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/naman9708/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/naman9708/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/naman9708/Leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/naman9708/Leetcode-Practice/tree/master/0443-string-compression) |
 | [0948-bag-of-tokens](https://github.com/naman9708/Leetcode-Practice/tree/master/0948-bag-of-tokens) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/naman9708/Leetcode-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
