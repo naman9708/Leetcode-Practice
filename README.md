@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/1905-count-sub-islands) |
 | [1920-build-array-from-permutation](https://github.com/naman9708/Leetcode-Practice/tree/master/1920-build-array-from-permutation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/naman9708/Leetcode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/naman9708/Leetcode-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naman9708/Leetcode-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/naman9708/Leetcode-Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/naman9708/Leetcode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/naman9708/Leetcode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naman9708/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/naman9708/Leetcode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/naman9708/Leetcode-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/naman9708/Leetcode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/naman9708/Leetcode-Practice/tree/master/3952-maximum-total-value-of-covered-indices) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/naman9708/Leetcode-Practice/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/naman9708/Leetcode-Practice/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/naman9708/Leetcode-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3379-transformed-array](https://github.com/naman9708/Leetcode-Practice/tree/master/3379-transformed-array) |
 ## Greedy
 |  |
