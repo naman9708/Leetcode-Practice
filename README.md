@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/naman9708/Leetcode-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/naman9708/Leetcode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1463-cherry-pickup-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/1463-cherry-pickup-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/naman9708/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1514-path-with-maximum-probability](https://github.com/naman9708/Leetcode-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/naman9708/Leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/naman9708/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/naman9708/Leetcode-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/naman9708/Leetcode-Practice/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/1463-cherry-pickup-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/naman9708/Leetcode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/naman9708/Leetcode-Practice/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Simulation
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/naman9708/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/naman9708/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
+| [1463-cherry-pickup-ii](https://github.com/naman9708/Leetcode-Practice/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/naman9708/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/naman9708/Leetcode-Practice/tree/master/1905-count-sub-islands) |
 ## Data Stream
